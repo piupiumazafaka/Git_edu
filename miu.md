@@ -5,6 +5,7 @@ Starting to learn versions controlling
 
 ## Выделение
 *Курсив*
+_курсив_
 
 **Полужирный**
 
