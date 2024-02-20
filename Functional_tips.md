@@ -53,7 +53,9 @@ git branch
 ```sh
 git branch -d
 ```
-
+```sh
+git diff
+```
 
 
 > Почаще делайте коммиты с:
