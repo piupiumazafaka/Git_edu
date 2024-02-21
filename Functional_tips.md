@@ -63,6 +63,6 @@ git commit
 ```
 Удобное отображение log:
 ```sh
-git log --oneline --graph'
+git log --oneline --graph
 ```
 > Почаще делайте коммиты с:
